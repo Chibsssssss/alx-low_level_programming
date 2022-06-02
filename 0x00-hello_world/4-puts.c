@@ -10,6 +10,7 @@
 /**
  * main - Dont feel like
  * @0 - haha you are stressing me
+ * Return: 0 Please
  */
 int main(void)
 {
