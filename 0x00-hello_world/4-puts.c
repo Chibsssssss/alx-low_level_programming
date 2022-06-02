@@ -7,6 +7,9 @@
  * to
  * say
  */
+/**
+ * main - Dont feel like
+ */
 
 int main(void)
 {
