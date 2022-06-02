@@ -3,7 +3,7 @@
 /**
  * main - Main function
  * @0 -The return
- * Return - Im tired
+ * Return: Im tired
  */
 
 int main(void)
