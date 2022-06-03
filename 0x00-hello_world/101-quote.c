@@ -2,7 +2,6 @@
 #include <unistd.h>
 
 /**
- *
  * main - Entry point
  * @1 - Hapu m
  * Return: Always 1
