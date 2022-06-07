@@ -13,6 +13,8 @@ int main(void)
 	char i;
 
 	for (i = 'a'; i <= 'z'; i++)
-	       printf(i, "%c\n");
+		_putchar(i);
+	_putchar('\n');
+
 	return (0);
 }
