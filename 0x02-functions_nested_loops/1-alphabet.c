@@ -13,6 +13,6 @@ int main(void)
 	char i;
 
 	for (i = 'a'; i <= 'z'; i++)
-	       printf(i, "%d\n");
+	       printf(i, "%c\n");
 	return (0);
 }
