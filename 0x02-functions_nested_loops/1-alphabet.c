@@ -7,7 +7,6 @@
  * Return: Anything
  *
  */
-
 int main(void)
 {
 	char i;
