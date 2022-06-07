@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <main.h>
+#include "main.h"
 
 /**
  * main - Entry point
@@ -13,6 +13,6 @@ int main(void)
 	char i;
 
 	for (i = 'a'; i <= 'z'; i++)
-	       printf(i);
+	       printf(i, "%d\n");
 	return (0);
 }
