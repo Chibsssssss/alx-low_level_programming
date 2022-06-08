@@ -3,8 +3,7 @@
 
 /**
  * main - Entry point
- * @0 - Return value
- * Return: Anything
+ * Return: void
  *
  */
 void print_alphabet(void)
