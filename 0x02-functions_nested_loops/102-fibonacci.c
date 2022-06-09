@@ -1,5 +1,5 @@
 #include <stdio.h>
-/** 
+/**
  * main - Prints the first 52 fibonacci numbers
  * Return: Nothing!
  */
@@ -23,7 +23,6 @@ int main(void)
 
 		++i;
 	}
-
 	printf("\n");
 	return (0);
 }
