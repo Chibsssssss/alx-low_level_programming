@@ -1,14 +1,74 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
- * mul - check the code for  School students.
- *
- * @int a - First
- * @int b - Second
- * Return: Always 0.
- */
-int mul(int a, int b);
+  * mul - Multiplies two integers
+  * @a: The first number to multiply
+  * @b: The second number to multiply with first number
+  *
+  * Return: The result of multiplication between x param and y param
+  */
+int mul(int a, int b)
 {
-  return (a * b);
+	return (a * b);
 }
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+2-mul.c[+] [unix] (01:13 10/06/2022)                                                                                                                                                                       1,1 All
+-- INSERT --
+
